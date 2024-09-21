@@ -1,4 +1,5 @@
 name: Configure Azure environment
+# just a test modification to allow for a PR and triggering jobs
 
 on:
   pull_request:
